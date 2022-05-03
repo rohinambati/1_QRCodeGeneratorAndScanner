@@ -1,4 +1,4 @@
-QR Code Generator and Scanner
+1_QR Code Generator and Scanner:
 Rohin Rajendra Ambati
 Sarthak Sanjay More 
 Prathamesh Sanjay Lambate
